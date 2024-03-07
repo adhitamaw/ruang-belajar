@@ -2,5 +2,5 @@
 
 Contributor:
 
-- `<yourname> - <id>`
+- `Adhitama Wichaksono - BE8960747`
 - Bob
